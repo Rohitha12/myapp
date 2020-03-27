@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "author": "Rohitha Reddy Meda",
   "version": "0.0.0",
   "private": true,
   "scripts": {
